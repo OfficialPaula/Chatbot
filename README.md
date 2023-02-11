@@ -1,4 +1,4 @@
-# Chatbox
+# Chatbot
 
 Greets the user by name and initiates dialogue: "Hello . Tell me what is on your mind today in 1 sentence.”
 
